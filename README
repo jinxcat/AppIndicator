@@ -1,4 +1,4 @@
-An example/skeleton of setting an appindicator app for in python.
+An example/skeleton of setting up an appindicator app for in python.
 
 AppIndicator is a unified "framework" used in Ubuntu Unity to normalise the showing of notifications icons in the "taskbar".
 
